@@ -1,1 +1,1 @@
-# scientific-calculator
+# scientific-calculator using tkinter library in Python
